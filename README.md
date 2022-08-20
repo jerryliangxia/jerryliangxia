@@ -2,11 +2,10 @@
 
 # Previous Experience:
 
-## Software Developer Intern at Unity
+### Software Developer Intern at Unity
+### Backend Developer Intern at Gameloft
 
-## Backend Developer Intern at Gameloft
-
-### Find more about me [here](https://read.cv/jx)
+### Find more about me [here](https://read.cv/jx)!
 
 <!--
 **jerryliangxia/jerryliangxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
