@@ -1,4 +1,4 @@
-### 👋
+### 🤙
 
 # Previous Experience:
 
